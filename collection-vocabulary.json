@@ -1,0 +1,106 @@
+{
+  "key": "vocabulary",
+  "name": "Vocabulary",
+  "decks": {
+    "travel_transport": {
+      "name": "Travel & transport",
+      "cards": [
+        { "id": 1, "es": "¿Dónde está la parada de autobús más cercana?", "en": "Where is the nearest bus stop?" },
+        { "id": 2, "es": "¿Cada cuánto pasa el autobús?", "en": "How often does the bus come?" },
+        { "id": 3, "es": "Quisiera comprar un billete de ida y vuelta.", "en": "I'd like to buy a return ticket." },
+        { "id": 4, "es": "¿A qué hora sale el próximo tren?", "en": "What time does the next train leave?" },
+        { "id": 5, "es": "¿Este tren va a Madrid?", "en": "Does this train go to Madrid?" },
+        { "id": 6, "es": "Tengo una reserva a nombre de…", "en": "I have a reservation under the name of…" },
+        { "id": 7, "es": "¿Hay algún descuento para estudiantes?", "en": "Is there any discount for students?" },
+        { "id": 8, "es": "Voy a quedarme una semana.", "en": "I'm going to stay for a week." },
+        { "id": 9, "es": "¿Dónde puedo alquilar un coche?", "en": "Where can I rent a car?" },
+        { "id": 10, "es": "Se ha cancelado mi vuelo.", "en": "My flight has been cancelled." },
+        { "id": 11, "es": "Mi maleta no ha llegado.", "en": "My suitcase hasn't arrived." },
+        { "id": 12, "es": "¿Cuánto tarda en llegar?", "en": "How long does it take to get there?" },
+        { "id": 13, "es": "¿Está lejos de aquí?", "en": "Is it far from here?" },
+        { "id": 14, "es": "Prefiero ir andando.", "en": "I prefer to go on foot." },
+        { "id": 15, "es": "¿Cuánto cuesta el billete?", "en": "How much is the ticket?" },
+        { "id": 16, "es": "Quisiera cambiar de asiento.", "en": "I'd like to change seats." },
+        { "id": 17, "es": "¿En qué andén está?", "en": "On which platform is it?" },
+        { "id": 18, "es": "He perdido el tren.", "en": "I missed the train." },
+        { "id": 19, "es": "¿Puedes mirar en el mapa?", "en": "Can you look at the map?" },
+        { "id": 20, "es": "Estoy buscando la oficina de turismo.", "en": "I'm looking for the tourist office." }
+      ]
+    },
+    "shopping_services": {
+      "name": "Shopping & services",
+      "cards": [
+        { "id": 1, "es": "Solo estoy mirando, gracias.", "en": "I'm just looking, thanks." },
+        { "id": 2, "es": "¿Tiene esta camiseta en otra talla?", "en": "Do you have this T‑shirt in another size?" },
+        { "id": 3, "es": "¿Puedo probármelo?", "en": "Can I try it on?" },
+        { "id": 4, "es": "Me queda un poco grande.", "en": "It's a bit big on me." },
+        { "id": 5, "es": "Me queda un poco pequeño.", "en": "It's a bit small on me." },
+        { "id": 6, "es": "¿Cuánto vale?", "en": "How much is it?" },
+        { "id": 7, "es": "¿Está en oferta?", "en": "Is it on sale?" },
+        { "id": 8, "es": "¿Puedo pagar en efectivo?", "en": "Can I pay in cash?" },
+        { "id": 9, "es": "¿Puedo devolverlo si no me gusta?", "en": "Can I return it if I don't like it?" },
+        { "id": 10, "es": "Solo aceptamos tarjeta.", "en": "We only accept card." },
+        { "id": 11, "es": "¿Dónde está el cajero automático más cercano?", "en": "Where is the nearest ATM?" },
+        { "id": 12, "es": "Se me ha roto el móvil.", "en": "My phone has broken." },
+        { "id": 13, "es": "Necesito recargar el bono de transporte.", "en": "I need to top up my transport card." },
+        { "id": 14, "es": "¿Hay garantía?", "en": "Is there a warranty?" },
+        { "id": 15, "es": "¿Tienen este modelo en otro color?", "en": "Do you have this model in another color?" },
+        { "id": 16, "es": "Me lo llevo.", "en": "I'll take it." },
+        { "id": 17, "es": "¿Hasta qué hora abren?", "en": "Until what time are you open?" },
+        { "id": 18, "es": "Está agotado.", "en": "It's sold out." },
+        { "id": 19, "es": "¿Podría envolverlo para regalo?", "en": "Could you gift‑wrap it?" },
+        { "id": 20, "es": "Solo necesito una bolsa pequeña.", "en": "I just need a small bag." }
+      ]
+    },
+    "health_emergencies": {
+      "name": "Health & emergencies",
+      "cards": [
+        { "id": 1, "es": "No me encuentro bien.", "en": "I don't feel well." },
+        { "id": 2, "es": "Me duele la cabeza.", "en": "I have a headache." },
+        { "id": 3, "es": "Me duele la garganta.", "en": "My throat hurts." },
+        { "id": 4, "es": "Me duele el estómago.", "en": "I have a stomachache." },
+        { "id": 5, "es": "Tengo fiebre.", "en": "I have a fever." },
+        { "id": 6, "es": "Soy alérgico / alérgica a la penicilina.", "en": "I am allergic to penicillin." },
+        { "id": 7, "es": "¿Dónde está el centro de salud más cercano?", "en": "Where is the nearest health center?" },
+        { "id": 8, "es": "Necesito pedir cita con el médico.", "en": "I need to make a doctor's appointment." },
+        { "id": 9, "es": "He perdido la receta.", "en": "I have lost the prescription." },
+        { "id": 10, "es": "¿Hay una farmacia de guardia?", "en": "Is there a pharmacy on duty?" },
+        { "id": 11, "es": "Me he torcido el tobillo.", "en": "I twisted my ankle." },
+        { "id": 12, "es": "Me he cortado el dedo.", "en": "I cut my finger." },
+        { "id": 13, "es": "Necesito algo para el dolor.", "en": "I need something for the pain." },
+        { "id": 14, "es": "Tengo náuseas.", "en": "I feel nauseous." },
+        { "id": 15, "es": "Llama a una ambulancia, por favor.", "en": "Call an ambulance, please." },
+        { "id": 16, "es": "He tenido un accidente.", "en": "I have had an accident." },
+        { "id": 17, "es": "¿Tienes seguro médico?", "en": "Do you have health insurance?" },
+        { "id": 18, "es": "¿Desde cuándo te sientes así?", "en": "Since when have you felt like this?" },
+        { "id": 19, "es": "Solo es un resfriado.", "en": "It's just a cold." },
+        { "id": 20, "es": "Necesito descansar unos días.", "en": "I need to rest for a few days." }
+      ]
+    },
+    "housing_daily_life": {
+      "name": "Housing & daily life",
+      "cards": [
+        { "id": 1, "es": "Vivo en un piso compartido.", "en": "I live in a shared flat." },
+        { "id": 2, "es": "Estoy buscando habitación.", "en": "I'm looking for a room." },
+        { "id": 3, "es": "¿Los gastos están incluidos?", "en": "Are the bills included?" },
+        { "id": 4, "es": "El alquiler es bastante caro.", "en": "The rent is quite expensive." },
+        { "id": 5, "es": "El piso es muy luminoso.", "en": "The flat is very bright." },
+        { "id": 6, "es": "El barrio es tranquilo.", "en": "The neighborhood is quiet." },
+        { "id": 7, "es": "Tengo que hacer la colada.", "en": "I have to do the laundry." },
+        { "id": 8, "es": "Suelo cocinar en casa.", "en": "I usually cook at home." },
+        { "id": 9, "es": "Voy a sacar la basura.", "en": "I'm going to take out the trash." },
+        { "id": 10, "es": "Se ha roto la lavadora.", "en": "The washing machine has broken." },
+        { "id": 11, "es": "Voy a pasar la aspiradora.", "en": "I'm going to vacuum." },
+        { "id": 12, "es": "¿Puedes regar las plantas?", "en": "Can you water the plants?" },
+        { "id": 13, "es": "Llego tarde a casa hoy.", "en": "I'm getting home late today." },
+        { "id": 14, "es": "¿Te importa fregar los platos?", "en": "Do you mind doing the dishes?" },
+        { "id": 15, "es": "Tenemos que hacer la compra.", "en": "We have to do the shopping." },
+        { "id": 16, "es": "Se ha ido la luz.", "en": "The power has gone out." },
+        { "id": 17, "es": "La conexión a internet va muy lenta.", "en": "The internet connection is very slow." },
+        { "id": 18, "es": "Voy a ducharme.", "en": "I'm going to take a shower." },
+        { "id": 19, "es": "Voy a acostarme temprano.", "en": "I'm going to go to bed early." },
+        { "id": 20, "es": "Tengo que ordenar mi habitación.", "en": "I have to tidy up my room." }
+      ]
+    }
+  }
+}
