@@ -1,0 +1,19 @@
+{
+  "collections": [
+    {
+      "key": "everyday_phrases",
+      "name": "Everyday phrases",
+      "url": "collection-everyday_phrases.json"
+    },
+    {
+      "key": "vocabulary",
+      "name": "Vocabulary",
+      "url": "collection-vocabulary.json"
+    },
+    {
+      "key": "verbs_connectors",
+      "name": "Verbs & connectors",
+      "url": "collection-verbs_connectors.json"
+    }
+  ]
+}
