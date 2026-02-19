@@ -1,0 +1,269 @@
+{
+  "collections": {
+    "everyday_phrases": {
+      "name": "Everyday phrases",
+      "decks": {
+        "everyday_b1": {
+          "name": "Everyday phrases (B1 core)",
+          "cards": [
+            { "id": 1, "es": "¿Cómo te va?", "en": "How's it going?" },
+            { "id": 2, "es": "No lo sé.", "en": "I don't know." },
+            { "id": 3, "es": "¿Puedes repetirlo, por favor?", "en": "Can you repeat it, please?" },
+            { "id": 4, "es": "No entiendo.", "en": "I don't understand." },
+            { "id": 5, "es": "¿Qué significa eso?", "en": "What does that mean?" },
+            { "id": 6, "es": "¿Puedes hablar más despacio?", "en": "Can you speak more slowly?" },
+            { "id": 7, "es": "Depende.", "en": "It depends." },
+            { "id": 8, "es": "No pasa nada.", "en": "It's okay / No problem." },
+            { "id": 9, "es": "Da igual.", "en": "It doesn't matter." },
+            { "id": 10, "es": "¡Qué guay!", "en": "How cool!" },
+            { "id": 11, "es": "¡Qué pena!", "en": "What a pity / That's too bad." },
+            { "id": 12, "es": "Me da igual.", "en": "I don't mind / It's all the same to me." },
+            { "id": 13, "es": "¡Qué casualidad!", "en": "What a coincidence!" },
+            { "id": 14, "es": "Por cierto…", "en": "By the way…" },
+            { "id": 15, "es": "¡Qué va!", "en": "No way! / Of course not!" },
+            { "id": 16, "es": "Menos mal.", "en": "Good thing / What a relief." },
+            { "id": 17, "es": "A ver…", "en": "Let's see…" },
+            { "id": 18, "es": "Eso es todo.", "en": "That's all." },
+            { "id": 19, "es": "Tengo prisa.", "en": "I'm in a hurry." },
+            { "id": 20, "es": "No tengo ni idea.", "en": "I have no idea." }
+          ]
+        },
+        "cafe_restaurant": {
+          "name": "At the café & restaurant",
+          "cards": [
+            { "id": 1, "es": "¿Me pones un café, por favor?", "en": "Can you get me a coffee, please?" },
+            { "id": 2, "es": "¿Me trae la cuenta, por favor?", "en": "Could you bring me the bill, please?" },
+            { "id": 3, "es": "¿Qué me recomienda?", "en": "What do you recommend?" },
+            { "id": 4, "es": "Para mí, un agua con gas.", "en": "For me, a sparkling water." },
+            { "id": 5, "es": "¿Tienen algo sin gluten?", "en": "Do you have anything gluten‑free?" },
+            { "id": 6, "es": "Soy vegetariano / vegetariana.", "en": "I am vegetarian." },
+            { "id": 7, "es": "¿Está incluido el servicio?", "en": "Is the service included?" },
+            { "id": 8, "es": "Está riquísimo.", "en": "It's delicious." },
+            { "id": 9, "es": "Solo quiero picar algo.", "en": "I just want to snack on something." },
+            { "id": 10, "es": "¿Podemos sentarnos en la terraza?", "en": "Can we sit on the terrace?" },
+            { "id": 11, "es": "Para llevar, por favor.", "en": "To go / Takeaway, please." },
+            { "id": 12, "es": "Para aquí, por favor.", "en": "For here, please." },
+            { "id": 13, "es": "Otro café, por favor.", "en": "Another coffee, please." },
+            { "id": 14, "es": "¿Cuánto le debo?", "en": "How much do I owe you?" },
+            { "id": 15, "es": "¿Aceptan tarjeta?", "en": "Do you accept card?" },
+            { "id": 16, "es": "Sin hielo, por favor.", "en": "Without ice, please." },
+            { "id": 17, "es": "Con leche desnatada, por favor.", "en": "With skimmed milk, please." },
+            { "id": 18, "es": "¿A qué hora cierran?", "en": "What time do you close?" },
+            { "id": 19, "es": "Estamos listos para pedir.", "en": "We are ready to order." },
+            { "id": 20, "es": "¿Nos puede traer un poco más de pan?", "en": "Can you bring us some more bread?" }
+          ]
+        },
+        "small_talk": {
+          "name": "Small talk & opinions",
+          "cards": [
+            { "id": 1, "es": "¿A qué te dedicas?", "en": "What do you do for a living?" },
+            { "id": 2, "es": "Trabajo como ingeniero / ingeniera.", "en": "I work as an engineer." },
+            { "id": 3, "es": "Estoy en paro.", "en": "I'm unemployed." },
+            { "id": 4, "es": "Trabajo desde casa.", "en": "I work from home." },
+            { "id": 5, "es": "¿Qué sueles hacer en tu tiempo libre?", "en": "What do you usually do in your free time?" },
+            { "id": 6, "es": "Me encanta leer novelas.", "en": "I love reading novels." },
+            { "id": 7, "es": "Últimamente estoy muy ocupado / ocupada.", "en": "Lately I've been very busy." },
+            { "id": 8, "es": "En mi opinión, es una buena idea.", "en": "In my opinion, it's a good idea." },
+            { "id": 9, "es": "No estoy de acuerdo.", "en": "I don't agree." },
+            { "id": 10, "es": "Tienes razón.", "en": "You are right." },
+            { "id": 11, "es": "Creo que sí.", "en": "I think so." },
+            { "id": 12, "es": "Creo que no.", "en": "I don't think so." },
+            { "id": 13, "es": "¿Te importa si…?", "en": "Do you mind if…?" },
+            { "id": 14, "es": "No me importa.", "en": "I don't mind." },
+            { "id": 15, "es": "¿Has visto la última película de…?", "en": "Have you seen the latest movie by…?" },
+            { "id": 16, "es": "Suelo levantarme temprano.", "en": "I usually get up early." },
+            { "id": 17, "es": "A veces me cuesta dormir.", "en": "Sometimes I have trouble sleeping." },
+            { "id": 18, "es": "Hace mucho que no te veo.", "en": "I haven't seen you in a long time." },
+            { "id": 19, "es": "¿Qué planes tienes para el fin de semana?", "en": "What plans do you have for the weekend?" },
+            { "id": 20, "es": "Lo pasarás muy bien.", "en": "You'll have a great time." }
+          ]
+        }
+      }
+    },
+    "vocabulary": {
+      "name": "Vocabulary",
+      "decks": {
+        "travel_transport": {
+          "name": "Travel & transport",
+          "cards": [
+            { "id": 1, "es": "¿Dónde está la parada de autobús más cercana?", "en": "Where is the nearest bus stop?" },
+            { "id": 2, "es": "¿Cada cuánto pasa el autobús?", "en": "How often does the bus come?" },
+            { "id": 3, "es": "Quisiera comprar un billete de ida y vuelta.", "en": "I'd like to buy a return ticket." },
+            { "id": 4, "es": "¿A qué hora sale el próximo tren?", "en": "What time does the next train leave?" },
+            { "id": 5, "es": "¿Este tren va a Madrid?", "en": "Does this train go to Madrid?" },
+            { "id": 6, "es": "Tengo una reserva a nombre de…", "en": "I have a reservation under the name of…" },
+            { "id": 7, "es": "¿Hay algún descuento para estudiantes?", "en": "Is there any discount for students?" },
+            { "id": 8, "es": "Voy a quedarme una semana.", "en": "I'm going to stay for a week." },
+            { "id": 9, "es": "¿Dónde puedo alquilar un coche?", "en": "Where can I rent a car?" },
+            { "id": 10, "es": "Se ha cancelado mi vuelo.", "en": "My flight has been cancelled." },
+            { "id": 11, "es": "Mi maleta no ha llegado.", "en": "My suitcase hasn't arrived." },
+            { "id": 12, "es": "¿Cuánto tarda en llegar?", "en": "How long does it take to get there?" },
+            { "id": 13, "es": "¿Está lejos de aquí?", "en": "Is it far from here?" },
+            { "id": 14, "es": "Prefiero ir andando.", "en": "I prefer to go on foot." },
+            { "id": 15, "es": "¿Cuánto cuesta el billete?", "en": "How much is the ticket?" },
+            { "id": 16, "es": "Quisiera cambiar de asiento.", "en": "I'd like to change seats." },
+            { "id": 17, "es": "¿En qué andén está?", "en": "On which platform is it?" },
+            { "id": 18, "es": "He perdido el tren.", "en": "I missed the train." },
+            { "id": 19, "es": "¿Puedes mirar en el mapa?", "en": "Can you look at the map?" },
+            { "id": 20, "es": "Estoy buscando la oficina de turismo.", "en": "I'm looking for the tourist office." }
+          ]
+        },
+        "shopping_services": {
+          "name": "Shopping & services",
+          "cards": [
+            { "id": 1, "es": "Solo estoy mirando, gracias.", "en": "I'm just looking, thanks." },
+            { "id": 2, "es": "¿Tiene esta camiseta en otra talla?", "en": "Do you have this T‑shirt in another size?" },
+            { "id": 3, "es": "¿Puedo probármelo?", "en": "Can I try it on?" },
+            { "id": 4, "es": "Me queda un poco grande.", "en": "It's a bit big on me." },
+            { "id": 5, "es": "Me queda un poco pequeño.", "en": "It's a bit small on me." },
+            { "id": 6, "es": "¿Cuánto vale?", "en": "How much is it?" },
+            { "id": 7, "es": "¿Está en oferta?", "en": "Is it on sale?" },
+            { "id": 8, "es": "¿Puedo pagar en efectivo?", "en": "Can I pay in cash?" },
+            { "id": 9, "es": "¿Puedo devolverlo si no me gusta?", "en": "Can I return it if I don't like it?" },
+            { "id": 10, "es": "Solo aceptamos tarjeta.", "en": "We only accept card." },
+            { "id": 11, "es": "¿Dónde está el cajero automático más cercano?", "en": "Where is the nearest ATM?" },
+            { "id": 12, "es": "Se me ha roto el móvil.", "en": "My phone has broken." },
+            { "id": 13, "es": "Necesito recargar el bono de transporte.", "en": "I need to top up my transport card." },
+            { "id": 14, "es": "¿Hay garantía?", "en": "Is there a warranty?" },
+            { "id": 15, "es": "¿Tienen este modelo en otro color?", "en": "Do you have this model in another color?" },
+            { "id": 16, "es": "Me lo llevo.", "en": "I'll take it." },
+            { "id": 17, "es": "¿Hasta qué hora abren?", "en": "Until what time are you open?" },
+            { "id": 18, "es": "Está agotado.", "en": "It's sold out." },
+            { "id": 19, "es": "¿Podría envolverlo para regalo?", "en": "Could you gift‑wrap it?" },
+            { "id": 20, "es": "Solo necesito una bolsa pequeña.", "en": "I just need a small bag." }
+          ]
+        },
+        "health_emergencies": {
+          "name": "Health & emergencies",
+          "cards": [
+            { "id": 1, "es": "No me encuentro bien.", "en": "I don't feel well." },
+            { "id": 2, "es": "Me duele la cabeza.", "en": "I have a headache." },
+            { "id": 3, "es": "Me duele la garganta.", "en": "My throat hurts." },
+            { "id": 4, "es": "Me duele el estómago.", "en": "I have a stomachache." },
+            { "id": 5, "es": "Tengo fiebre.", "en": "I have a fever." },
+            { "id": 6, "es": "Soy alérgico / alérgica a la penicilina.", "en": "I am allergic to penicillin." },
+            { "id": 7, "es": "¿Dónde está el centro de salud más cercano?", "en": "Where is the nearest health center?" },
+            { "id": 8, "es": "Necesito pedir cita con el médico.", "en": "I need to make a doctor's appointment." },
+            { "id": 9, "es": "He perdido la receta.", "en": "I have lost the prescription." },
+            { "id": 10, "es": "¿Hay una farmacia de guardia?", "en": "Is there a pharmacy on duty?" },
+            { "id": 11, "es": "Me he torcido el tobillo.", "en": "I twisted my ankle." },
+            { "id": 12, "es": "Me he cortado el dedo.", "en": "I cut my finger." },
+            { "id": 13, "es": "Necesito algo para el dolor.", "en": "I need something for the pain." },
+            { "id": 14, "es": "Tengo náuseas.", "en": "I feel nauseous." },
+            { "id": 15, "es": "Llama a una ambulancia, por favor.", "en": "Call an ambulance, please." },
+            { "id": 16, "es": "He tenido un accidente.", "en": "I have had an accident." },
+            { "id": 17, "es": "¿Tienes seguro médico?", "en": "Do you have health insurance?" },
+            { "id": 18, "es": "¿Desde cuándo te sientes así?", "en": "Since when have you felt like this?" },
+            { "id": 19, "es": "Solo es un resfriado.", "en": "It's just a cold." },
+            { "id": 20, "es": "Necesito descansar unos días.", "en": "I need to rest for a few days." }
+          ]
+        },
+        "housing_daily_life": {
+          "name": "Housing & daily life",
+          "cards": [
+            { "id": 1, "es": "Vivo en un piso compartido.", "en": "I live in a shared flat." },
+            { "id": 2, "es": "Estoy buscando habitación.", "en": "I'm looking for a room." },
+            { "id": 3, "es": "¿Los gastos están incluidos?", "en": "Are the bills included?" },
+            { "id": 4, "es": "El alquiler es bastante caro.", "en": "The rent is quite expensive." },
+            { "id": 5, "es": "El piso es muy luminoso.", "en": "The flat is very bright." },
+            { "id": 6, "es": "El barrio es tranquilo.", "en": "The neighborhood is quiet." },
+            { "id": 7, "es": "Tengo que hacer la colada.", "en": "I have to do the laundry." },
+            { "id": 8, "es": "Suelo cocinar en casa.", "en": "I usually cook at home." },
+            { "id": 9, "es": "Voy a sacar la basura.", "en": "I'm going to take out the trash." },
+            { "id": 10, "es": "Se ha roto la lavadora.", "en": "The washing machine has broken." },
+            { "id": 11, "es": "Voy a pasar la aspiradora.", "en": "I'm going to vacuum." },
+            { "id": 12, "es": "¿Puedes regar las plantas?", "en": "Can you water the plants?" },
+            { "id": 13, "es": "Llego tarde a casa hoy.", "en": "I'm getting home late today." },
+            { "id": 14, "es": "¿Te importa fregar los platos?", "en": "Do you mind doing the dishes?" },
+            { "id": 15, "es": "Tenemos que hacer la compra.", "en": "We have to do the shopping." },
+            { "id": 16, "es": "Se ha ido la luz.", "en": "The power has gone out." },
+            { "id": 17, "es": "La conexión a internet va muy lenta.", "en": "The internet connection is very slow." },
+            { "id": 18, "es": "Voy a ducharme.", "en": "I'm going to take a shower." },
+            { "id": 19, "es": "Voy a acostarme temprano.", "en": "I'm going to go to bed early." },
+            { "id": 20, "es": "Tengo que ordenar mi habitación.", "en": "I have to tidy up my room." }
+          ]
+        }
+      }
+    },
+    "verbs_connectors": {
+      "name": "Verbs & connectors",
+      "decks": {
+        "work_studies": {
+          "name": "Work & studies",
+          "cards": [
+            { "id": 1, "es": "Trabajo a jornada completa.", "en": "I work full‑time." },
+            { "id": 2, "es": "Trabajo a media jornada.", "en": "I work part‑time." },
+            { "id": 3, "es": "Estoy haciendo prácticas.", "en": "I'm doing an internship." },
+            { "id": 4, "es": "Teletrabajo tres días a la semana.", "en": "I work remotely three days a week." },
+            { "id": 5, "es": "Tengo una reunión ahora.", "en": "I have a meeting now." },
+            { "id": 6, "es": "¿Puedes enviarme un correo?", "en": "Can you send me an email?" },
+            { "id": 7, "es": "Tengo una fecha límite muy ajustada.", "en": "I have a very tight deadline." },
+            { "id": 8, "es": "Estoy estudiando para los exámenes.", "en": "I'm studying for exams." },
+            { "id": 9, "es": "Estoy haciendo un curso de español.", "en": "I'm taking a Spanish course." },
+            { "id": 10, "es": "Tengo que entregar un trabajo mañana.", "en": "I have to hand in an assignment tomorrow." },
+            { "id": 11, "es": "¿Puedes explicármelo otra vez?", "en": "Can you explain it to me again?" },
+            { "id": 12, "es": "Voy retrasado / retrasada con el proyecto.", "en": "I'm behind schedule with the project." },
+            { "id": 13, "es": "Estoy buscando otro trabajo.", "en": "I'm looking for another job." },
+            { "id": 14, "es": "¿Cuáles son tus responsabilidades?", "en": "What are your responsibilities?" },
+            { "id": 15, "es": "Tengo una entrevista la semana que viene.", "en": "I have an interview next week." },
+            { "id": 16, "es": "Trabajo en equipo.", "en": "I work in a team." },
+            { "id": 17, "es": "Hago muchos informes.", "en": "I make a lot of reports." },
+            { "id": 18, "es": "Tengo un horario flexible.", "en": "I have a flexible schedule." },
+            { "id": 19, "es": "Estoy de vacaciones esta semana.", "en": "I'm on holiday this week." },
+            { "id": 20, "es": "Voy a pedir unos días libres.", "en": "I'm going to ask for a few days off." }
+          ]
+        },
+        "feelings_reactions": {
+          "name": "Feelings & reactions",
+          "cards": [
+            { "id": 1, "es": "Estoy de buen humor.", "en": "I'm in a good mood." },
+            { "id": 2, "es": "Estoy de mal humor.", "en": "I'm in a bad mood." },
+            { "id": 3, "es": "Estoy cansadísimo / cansadísima.", "en": "I'm exhausted." },
+            { "id": 4, "es": "Estoy un poco estresado / estresada.", "en": "I'm a bit stressed." },
+            { "id": 5, "es": "Estoy muy agradecido / agradecida.", "en": "I'm very grateful." },
+            { "id": 6, "es": "Estoy ilusionado / ilusionada con el viaje.", "en": "I'm excited about the trip." },
+            { "id": 7, "es": "Me siento un poco solo / sola.", "en": "I feel a bit lonely." },
+            { "id": 8, "es": "Estoy preocupado / preocupada por eso.", "en": "I'm worried about that." },
+            { "id": 9, "es": "Estoy harto / harta de esta situación.", "en": "I'm fed up with this situation." },
+            { "id": 10, "es": "Me alegro mucho por ti.", "en": "I'm really happy for you." },
+            { "id": 11, "es": "¡Qué alegría verte!", "en": "What a joy to see you!" },
+            { "id": 12, "es": "Me siento mejor que ayer.", "en": "I feel better than yesterday." },
+            { "id": 13, "es": "Estoy pasando por un momento difícil.", "en": "I'm going through a difficult time." },
+            { "id": 14, "es": "Me da un poco de vergüenza.", "en": "I'm a bit embarrassed." },
+            { "id": 15, "es": "Estoy muy orgulloso / orgullosa de ti.", "en": "I'm very proud of you." },
+            { "id": 16, "es": "Me pone de buen humor.", "en": "It puts me in a good mood." },
+            { "id": 17, "es": "Eso me da mucha rabia.", "en": "That makes me really angry." },
+            { "id": 18, "es": "Lo echo mucho de menos.", "en": "I miss it/him/her a lot." },
+            { "id": 19, "es": "Estoy intentando relajarme más.", "en": "I'm trying to relax more." },
+            { "id": 20, "es": "Espero que todo salga bien.", "en": "I hope everything goes well." }
+          ]
+        },
+        "connectors_past_future": {
+          "name": "Talking about past & future",
+          "cards": [
+            { "id": 1, "es": "El año pasado viajé a España.", "en": "Last year I travelled to Spain." },
+            { "id": 2, "es": "Hace poco empecé un nuevo trabajo.", "en": "I recently started a new job." },
+            { "id": 3, "es": "Antes no me gustaba el café.", "en": "Before, I didn't like coffee." },
+            { "id": 4, "es": "Cuando era pequeño / pequeña…", "en": "When I was little…" },
+            { "id": 5, "es": "Siempre he querido vivir en el extranjero.", "en": "I've always wanted to live abroad." },
+            { "id": 6, "es": "Ayer por la tarde quedé con unos amigos.", "en": "Yesterday afternoon I met up with some friends." },
+            { "id": 7, "es": "Todavía no he terminado.", "en": "I haven't finished yet." },
+            { "id": 8, "es": "Ya he estado allí varias veces.", "en": "I've already been there several times." },
+            { "id": 9, "es": "Mañana voy a madrugar.", "en": "Tomorrow I'm going to get up early." },
+            { "id": 10, "es": "Esta noche voy a salir a cenar.", "en": "Tonight I'm going out for dinner." },
+            { "id": 11, "es": "Dentro de unos años me gustaría…", "en": "In a few years I would like to…" },
+            { "id": 12, "es": "Si tengo tiempo, iré contigo.", "en": "If I have time, I'll go with you." },
+            { "id": 13, "es": "En cuanto llegue, te llamo.", "en": "As soon as I arrive, I'll call you." },
+            { "id": 14, "es": "Cuando termines, avísame.", "en": "When you finish, let me know." },
+            { "id": 15, "es": "Mientras tanto, voy a estudiar.", "en": "Meanwhile, I'm going to study." },
+            { "id": 16, "es": "Al final decidimos quedarnos en casa.", "en": "In the end we decided to stay at home." },
+            { "id": 17, "es": "De repente empezó a llover.", "en": "Suddenly it started to rain." },
+            { "id": 18, "es": "Antes de irme, tengo que hacer la maleta.", "en": "Before I leave, I have to pack my suitcase." },
+            { "id": 19, "es": "Después de cenar, vemos una serie.", "en": "After dinner we watch a series." },
+            { "id": 20, "es": "Algún día me gustaría escribir un libro.", "en": "One day I would like to write a book." }
+          ]
+        }
+      }
+    }
+  }
+}
