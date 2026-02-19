@@ -1,0 +1,81 @@
+{
+  "key": "everyday_phrases",
+  "name": "Everyday phrases",
+  "decks": {
+    "everyday_b1": {
+      "name": "Everyday phrases (B1 core)",
+      "cards": [
+        { "id": 1, "es": "¿Cómo te va?", "en": "How's it going?" },
+        { "id": 2, "es": "No lo sé.", "en": "I don't know." },
+        { "id": 3, "es": "¿Puedes repetirlo, por favor?", "en": "Can you repeat it, please?" },
+        { "id": 4, "es": "No entiendo.", "en": "I don't understand." },
+        { "id": 5, "es": "¿Qué significa eso?", "en": "What does that mean?" },
+        { "id": 6, "es": "¿Puedes hablar más despacio?", "en": "Can you speak more slowly?" },
+        { "id": 7, "es": "Depende.", "en": "It depends." },
+        { "id": 8, "es": "No pasa nada.", "en": "It's okay / No problem." },
+        { "id": 9, "es": "Da igual.", "en": "It doesn't matter." },
+        { "id": 10, "es": "¡Qué guay!", "en": "How cool!" },
+        { "id": 11, "es": "¡Qué pena!", "en": "What a pity / That's too bad." },
+        { "id": 12, "es": "Me da igual.", "en": "I don't mind / It's all the same to me." },
+        { "id": 13, "es": "¡Qué casualidad!", "en": "What a coincidence!" },
+        { "id": 14, "es": "Por cierto…", "en": "By the way…" },
+        { "id": 15, "es": "¡Qué va!", "en": "No way! / Of course not!" },
+        { "id": 16, "es": "Menos mal.", "en": "Good thing / What a relief." },
+        { "id": 17, "es": "A ver…", "en": "Let's see…" },
+        { "id": 18, "es": "Eso es todo.", "en": "That's all." },
+        { "id": 19, "es": "Tengo prisa.", "en": "I'm in a hurry." },
+        { "id": 20, "es": "No tengo ni idea.", "en": "I have no idea." }
+      ]
+    },
+    "cafe_restaurant": {
+      "name": "At the café & restaurant",
+      "cards": [
+        { "id": 1, "es": "¿Me pones un café, por favor?", "en": "Can you get me a coffee, please?" },
+        { "id": 2, "es": "¿Me trae la cuenta, por favor?", "en": "Could you bring me the bill, please?" },
+        { "id": 3, "es": "¿Qué me recomienda?", "en": "What do you recommend?" },
+        { "id": 4, "es": "Para mí, un agua con gas.", "en": "For me, a sparkling water." },
+        { "id": 5, "es": "¿Tienen algo sin gluten?", "en": "Do you have anything gluten‑free?" },
+        { "id": 6, "es": "Soy vegetariano / vegetariana.", "en": "I am vegetarian." },
+        { "id": 7, "es": "¿Está incluido el servicio?", "en": "Is the service included?" },
+        { "id": 8, "es": "Está riquísimo.", "en": "It's delicious." },
+        { "id": 9, "es": "Solo quiero picar algo.", "en": "I just want to snack on something." },
+        { "id": 10, "es": "¿Podemos sentarnos en la terraza?", "en": "Can we sit on the terrace?" },
+        { "id": 11, "es": "Para llevar, por favor.", "en": "To go / Takeaway, please." },
+        { "id": 12, "es": "Para aquí, por favor.", "en": "For here, please." },
+        { "id": 13, "es": "Otro café, por favor.", "en": "Another coffee, please." },
+        { "id": 14, "es": "¿Cuánto le debo?", "en": "How much do I owe you?" },
+        { "id": 15, "es": "¿Aceptan tarjeta?", "en": "Do you accept card?" },
+        { "id": 16, "es": "Sin hielo, por favor.", "en": "Without ice, please." },
+        { "id": 17, "es": "Con leche desnatada, por favor.", "en": "With skimmed milk, please." },
+        { "id": 18, "es": "¿A qué hora cierran?", "en": "What time do you close?" },
+        { "id": 19, "es": "Estamos listos para pedir.", "en": "We are ready to order." },
+        { "id": 20, "es": "¿Nos puede traer un poco más de pan?", "en": "Can you bring us some more bread?" }
+      ]
+    },
+    "small_talk": {
+      "name": "Small talk & opinions",
+      "cards": [
+        { "id": 1, "es": "¿A qué te dedicas?", "en": "What do you do for a living?" },
+        { "id": 2, "es": "Trabajo como ingeniero / ingeniera.", "en": "I work as an engineer." },
+        { "id": 3, "es": "Estoy en paro.", "en": "I'm unemployed." },
+        { "id": 4, "es": "Trabajo desde casa.", "en": "I work from home." },
+        { "id": 5, "es": "¿Qué sueles hacer en tu tiempo libre?", "en": "What do you usually do in your free time?" },
+        { "id": 6, "es": "Me encanta leer novelas.", "en": "I love reading novels." },
+        { "id": 7, "es": "Últimamente estoy muy ocupado / ocupada.", "en": "Lately I've been very busy." },
+        { "id": 8, "es": "En mi opinión, es una buena idea.", "en": "In my opinion, it's a good idea." },
+        { "id": 9, "es": "No estoy de acuerdo.", "en": "I don't agree." },
+        { "id": 10, "es": "Tienes razón.", "en": "You are right." },
+        { "id": 11, "es": "Creo que sí.", "en": "I think so." },
+        { "id": 12, "es": "Creo que no.", "en": "I don't think so." },
+        { "id": 13, "es": "¿Te importa si…?", "en": "Do you mind if…?" },
+        { "id": 14, "es": "No me importa.", "en": "I don't mind." },
+        { "id": 15, "es": "¿Has visto la última película de…?", "en": "Have you seen the latest movie by…?" },
+        { "id": 16, "es": "Suelo levantarme temprano.", "en": "I usually get up early." },
+        { "id": 17, "es": "A veces me cuesta dormir.", "en": "Sometimes I have trouble sleeping." },
+        { "id": 18, "es": "Hace mucho que no te veo.", "en": "I haven't seen you in a long time." },
+        { "id": 19, "es": "¿Qué planes tienes para el fin de semana?", "en": "What plans do you have for the weekend?" },
+        { "id": 20, "es": "Lo pasarás muy bien.", "en": "You'll have a great time." }
+      ]
+    }
+  }
+}
